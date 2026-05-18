@@ -6,5 +6,5 @@
 [Tricking Wiki](#Wiki)
 [About](#About)
 [Blog](#Blog)
-[Github](https://www.https://github.com/TermaciousTrickocity)
+[Github](https://www.github.com/TermaciousTrickocity)
 [Youtube](https://www.youtube.com/user/TermaciousTrickocity)
