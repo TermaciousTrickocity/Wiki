@@ -1,2 +1,2 @@
 
-</small>*Updated periodically... (never)*</small>
+</small>*Other side, other side...*</small>
