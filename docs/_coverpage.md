@@ -2,7 +2,7 @@
 ![logo](_media/logo.png)
 
 # Termacious Trickocity
-> In Vibes we Trust
+</small>*In Vibes we Trust*</small>
 
 [About](#About)
 [Blog](#Blog)
