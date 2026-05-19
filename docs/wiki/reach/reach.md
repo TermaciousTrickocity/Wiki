@@ -2,4 +2,4 @@
 
 ## Campaign missions
 
-### [Winter Contingency](campaign/winter-contingency/winter-contingency.md)
+### [Winter Contingency](docs/reach/campaign/winter-contingency/winter-contingency.md)
