@@ -1,6 +1,21 @@
 # Tip of The Spear
 
-# Health Regeneration
+## Mission start soft ceiling hole
+
+
+At the very beginning of the mission there is a *"hole"* that acrophobia speedrunners use to immediately get outside of the map, but it's really not an actual hole in the soft ceiling, due to an oversight the mesh normals at that specific part cancel each other out creating a pseudo "hole" allowing players to freely escape the area.
+
+<img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_1" alt="in-game hole 1" width="852" height="480">
+<img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_1" alt="in-game hole 1" width="852" height="480">
+
+<img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_2" alt="in-game hole 1" width="852" height="480">
+<img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_2" alt="in-game hole 1" width="852" height="480">
+
+<img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_3" alt="in-game hole 1" width="852" height="480">
+<img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_3" alt="in-game hole 1" width="852" height="480">
+
+
+## Health Regeneration
 In extremely specific instances it is possible for a player to be granted a checkpoint for health regeneration. 
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\health_regen_checkpoint.png" alt="Health re-gen debug" width="852" height="480">
@@ -16,7 +31,6 @@ Both missions use different implementations of `f_global_health_saves`.
 *Winter Contingency has a check in the script start-up to see if the game is in `Solo` or `Co-op`. If a player is in a `Co-op` game `f_global_health_saves` will be left dormant, unable to be used for checkpoint exploits.*
 
 `(if (not (game_is_cooperative)) (wake f_global_health_saves))`
-
 
 *Tip of The Spear does not differentiate and proceeds to run the wake script along with all the other crucial startup scripts.*
 
