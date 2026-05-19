@@ -1,20 +1,39 @@
 # Halo: Reach
-Includes both Legacy Halo: Reach (Xbox 360) and Halo: The Master Chief Collection. (Modern Xbox Versions / PC)
+**Includes both Legacy Halo: Reach 2010** *(Xbox 360)* **and Halo: The Master Chief Collection 2019 port** *(Modern Xbox Versions / PC)*
+
 </small>*Will label appropriately when a trick/glitch is exclusive to a particular platform or version.*</small>
 
-## Campaign missions
-Collection of tricks/glitches in order as they appear on the specific campaign missions.
+We will not be covering every single small insignificant issue, such as but not limited to:
+- Bad collision/physic models.
+- Holes in map geometry.
+- Stretched textures. (bad UVs)
+- Floating rocks or effect emiters.
+- Small visual inaccuracies with the MCC port. (Animation compression, bloom, or lighting)
 
-### [Winter Contingency](wiki/reach/campaign/winter-contingency/winter-contingency.md)
-### [ONI: Sword Base](wiki/reach/campaign/oni-sword-base/oni-sword-base.md)
-### [Nightfall](wiki/reach/campaign/nightfall/nightfall.md)
-### [Tip of The Spear](wiki/reach/campaign/tip-of-the-spear/tip-of-the-spear.md)
-### [Long Night of Solace](wiki/reach/campaign/long-night-of-solace/long-night-of-solace.md)
-### [Exodus](wiki/reach/campaign/exodus/exodus.md)
-### [New Alexandria](wiki/reach/campaign/new-alexandria/new-alexandria.md)
-### [The Package](wiki/reach/campaign/the-package/the-package.md)
-### [The Pillar of Autumn](wiki/reach/campaign/the-pillar-of-autumn/the-pillar-of-autumn.md)
-### [Lone Wolf](wiki/reach/campaign/lone-wolf/lone-wolf.md)
+# Campaign missions
+**Collection of tricks/glitches in order as they appear on the specific campaign missions.**
+
+
+## [Winter Contingency](wiki/reach/campaign/winter-contingency/winter-contingency.md)
+"There's a disturbance on the frontier."
+## [ONI: Sword Base](wiki/reach/campaign/oni-sword-base/oni-sword-base.md)
+"Covenant are attacking a vital ONI base. Drive the bastards off."
+## [Nightfall](wiki/reach/campaign/nightfall/nightfall.md)
+"Move in behind enemy lines and evaluate the opposition."
+## [Tip of The Spear](wiki/reach/campaign/tip-of-the-spear/tip-of-the-spear.md)
+"Two massive armies clash! Time to go to war against the Covenant."
+## [Long Night of Solace](wiki/reach/campaign/long-night-of-solace/long-night-of-solace.md)
+"Move up the beach and secure the launch facility. Take the battle to the Covenant Super Carrier."
+## [Exodus](wiki/reach/campaign/exodus/exodus.md)
+"All is not lost. Evacuate civilians from an occupied city."
+## [New Alexandria](wiki/reach/campaign/new-alexandria/new-alexandria.md)
+"Provide air support in a forest of crumbling skyscrapers."
+## [The Package](wiki/reach/campaign/the-package/the-package.md)
+"Your orders are to destroy Sword Base... Or are they?"
+## [The Pillar of Autumn](wiki/reach/campaign/the-pillar-of-autumn/the-pillar-of-autumn.md)
+"Deliver Halsey's data package to the Pillar of Autumn."
+## [Lone Wolf](wiki/reach/campaign/lone-wolf/lone-wolf.md)
+"Survive."
 
 ## Non mission specific tricks
 
