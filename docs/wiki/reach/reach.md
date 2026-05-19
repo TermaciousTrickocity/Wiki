@@ -1,7 +1,8 @@
 # Halo: Reach
+Includes both Legacy Halo: Reach (Xbox 360) and Halo: The Master Chief Collection. (Modern Xbox Versions / PC)
+</small>*Will label appropriately when a trick/glitch is exclusive to a particular platform or version.*</small>
 
 ## Campaign missions
-
 Collection of tricks/glitches in order as they appear on the specific campaign missions.
 
 ### [Winter Contingency](wiki/reach/campaign/winter-contingency/winter-contingency.md)
@@ -17,4 +18,4 @@ Collection of tricks/glitches in order as they appear on the specific campaign m
 
 ## Non mission specific tricks
 
-
+### List all of the cool stuff here!
