@@ -7,9 +7,9 @@
 
 At the very beginning of the mission there is a *"hole"* that acrophobia speedrunners use to immediately get outside of the map, but it's really not an actual hole in the soft ceiling, due to an oversight the mesh normals cancel each other out creating a pseudo gap allowing the player to freely escape the area.
 
-The blue parts of the barrier represent the front-facing mesh which is the collision side that pushes inward and keeps the player within the map boundaries. The red sections represent the backface of the same mesh viewed from the opposite side. Touching the red side causes the collision response to reverse, pulling the player inward instead.
+The blue parts of the barrier represent the front-facing mesh which is the collision side that pushes inward and keeps the player within the map boundaries. The red sections represent the backface of the same mesh viewed from the opposite side. Touching the red side causes the collision response to pull the player inward.
 
-Because there are some duplicate vertices, the normals flip and point outward, so the inward-facing mesh and the reverse backface mesh effectively do the complete opposite.
+Because duplicate vertices make up that section of the barrier model, the normals flipped outward and now the player gets pushed out of the map instead being contained within.
 
 > *(Inside the barrier)*
 
