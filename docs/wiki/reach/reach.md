@@ -4,14 +4,18 @@
 </small>*Will label appropriately when a trick/glitch is exclusive to a particular platform or version.*</small>
 
 We will not be covering every single small insignificant issue, such as but not limited to:
-- Bad collision/physic models.
-- Holes in map geometry.
+- Minor bad collision/physic models.
+- Visual holes in map geometry.
 - Stretched textures. (bad UVs)
 - Floating rocks or effect emiters.
 - Small visual inaccuracies with the MCC port. (Animation compression, bloom, or lighting)
 
+If we did this would be 90% of everything and it's pretty uninteresting.
+
 # Campaign missions
 **Collection of tricks/glitches in order as they appear on the specific campaign missions.**
+
+Here's an alphabetical [list](#list-of-every-halo-reach-trickglitch-in-alphabetical-order) if you just want to browse everything instead...
 
 ## [Winter Contingency](wiki/reach/campaign/winter-contingency/winter-contingency.md)
 *"There's a disturbance on the frontier."*
@@ -63,6 +67,6 @@ We will not be covering every single small insignificant issue, such as but not 
 
 <img src="wiki\reach\_media\loading_screen12.png" alt="1" width="640" height="360">
 
-## Non mission specific tricks
+## List of every Halo: Reach trick/glitch in alphabetical order:
 
-### List all of the cool stuff here!
+</small>*this list is incomplete!*</small>
