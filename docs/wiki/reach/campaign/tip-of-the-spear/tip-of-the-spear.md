@@ -6,22 +6,23 @@ At the very beginning of the mission there is a *"hole"* that acrophobia speedru
 
 The blue parts of the barrier represent the front-facing mesh which is the collision side that pushes inward and keeps the player within the map boundaries. The red sections represent the backface of the same mesh viewed from the opposite side. Touching the red side causes the collision response to reverse, pulling the player inward instead.
 
+Because there are some duplicate vertices, the normals flip and point outward, so the inward-facing mesh and the reverse backface mesh effectively do the complete opposite, allowing the player to freely pass through.
+
+> *(Inside the barrier)*
+
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_1.PNG" alt="in-game_hole_1" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_1.PNG" alt="normals_hole_1" width="579" height="326">
 
-> *(Inside the barrier)*
+> *(Above the barrier)*
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_2.PNG" alt="in-game_hole_2" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_2.PNG" alt="normals_hole_2" width="579" height="326">
 
-> *(Above the barrier)*
+> *(Above the barrier alt angle)*
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_3.PNG" alt="in-game_hole_3" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_3.PNG" alt="normals_hole_3" width="579" height="326">
 
-> *(Above the barrier alt angle)*
-
-Because there are some duplicate vertices, the normals flip and point outward, so the inward-facing mesh and the reverse backface mesh effectively do the complete opposite, allowing the player to freely pass through.
 
 
 ## Health Regeneration
