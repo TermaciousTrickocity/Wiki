@@ -1,22 +1,24 @@
 # Tip of The Spear
 
-## Mission start soft ceiling hole
-
+## Mission start barrier hole
 
 At the very beginning of the mission there is a *"hole"* that acrophobia speedrunners use to immediately get outside of the map, but it's really not an actual hole in the soft ceiling, due to an oversight the mesh normals at that specific part cancel each other out creating a pseudo "hole" allowing players to freely escape the area.
 
+The blue parts of the barrier represent the front-facing mesh which is the collision side that pushes inward and keeps the player within the map boundaries. The red sections represent the backface of the same mesh viewed from the opposite side. Touching the red side causes the collision response to reverse, pulling the player inward instead.
+
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_1.PNG" alt="in-game_hole_1" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_1.PNG" alt="normals_hole_1" width="579" height="326">
-
-> ()
+*(Inside the barrier)*
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_2.PNG" alt="in-game_hole_2" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_2.PNG" alt="normals_hole_2" width="579" height="326">
-
-> ()
+*(Above the barrier)*
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_3.PNG" alt="in-game_hole_3" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_3.PNG" alt="normals_hole_3" width="579" height="326">
+*(Above the barrier alt angle)*
+
+Because there are some duplicate vertices, the normals flip and point outward, so the inward-facing mesh and the reverse backface mesh effectively do the complete opposite, allowing the player to freely pass through.
 
 
 ## Health Regeneration
