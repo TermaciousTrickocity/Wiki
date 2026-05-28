@@ -3,7 +3,7 @@
 
 <img src="wiki\reach\_media\loading_screen5.png" alt="1" width="640" height="360">
 
-# Mission start barrier hole
+### Mission start barrier hole
 
 At the very beginning of the mission there is a *"hole"* that acrophobia speedrunners use to immediately get outside of the map, but it's really not an actual hole in the soft ceiling, due to an oversight the mesh normals cancel each other out creating a pseudo gap allowing the player to freely escape the area.
 
@@ -27,7 +27,7 @@ Because duplicate vertices make up that section of the barrier model, the normal
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_3.PNG" alt="normals_hole_3" width="579" height="326">
 
 
-# Health Regeneration
+### Health Regeneration
 In extremely specific instances it is possible for a player to be granted a checkpoint for health regeneration. 
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\health_regen_checkpoint.png" alt="Health re-gen debug" width="852" height="480">
