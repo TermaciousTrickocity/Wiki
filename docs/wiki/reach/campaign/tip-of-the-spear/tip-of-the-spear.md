@@ -8,15 +8,18 @@ The blue parts of the barrier represent the front-facing mesh which is the colli
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_1.PNG" alt="in-game_hole_1" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_1.PNG" alt="normals_hole_1" width="579" height="326">
-*(Inside the barrier)*
+
+> *(Inside the barrier)*
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_2.PNG" alt="in-game_hole_2" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_2.PNG" alt="normals_hole_2" width="579" height="326">
-*(Above the barrier)*
+
+> *(Above the barrier)*
 
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_3.PNG" alt="in-game_hole_3" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_3.PNG" alt="normals_hole_3" width="579" height="326">
-*(Above the barrier alt angle)*
+
+> *(Above the barrier alt angle)*
 
 Because there are some duplicate vertices, the normals flip and point outward, so the inward-facing mesh and the reverse backface mesh effectively do the complete opposite, allowing the player to freely pass through.
 
