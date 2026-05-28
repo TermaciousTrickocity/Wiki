@@ -32,7 +32,7 @@ Here's an alphabetical [list](#list-of-every-halo-reach-trickglitch-in-alphabeti
 
 <img src="wiki\reach\_media\loading_screen4.png" alt="1" width="640" height="360">
 
-## [Tip of The Spear](wiki/reach/campaign/tip-of-the-spear/tip-of-the-spear.md)
+## [Tip of The Spear](wiki/reach/campaign/tip-of-the-spear/tip-of-the-spear.md?id=tip-of-the-spear)
 *"Two massive armies clash! Time to go to war against the Covenant."*
 
 <img src="wiki\reach\_media\loading_screen5.png" alt="1" width="640" height="360">
