@@ -1,3 +1,7 @@
 # The Package
 
-> nothing at the moment... :(
+### Pointless box (courtyard area)
+*wip*
+
+### Pointless box (glacier area)
+*wip*

@@ -26,7 +26,6 @@ Because duplicate vertices make up that section of the barrier model, the normal
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_ingame_3.PNG" alt="in-game_hole_3" width="579" height="326">
 <img src="wiki\reach\campaign\tip-of-the-spear\_media\barrier_normals_3.PNG" alt="normals_hole_3" width="579" height="326">
 
-
 ### Health Regeneration
 In extremely specific instances it is possible for a player to be granted a checkpoint for health regeneration. 
 
@@ -72,3 +71,42 @@ If the player restores their health back to 100% within a few seconds of the ini
 )
 ```
 > *From looking at the script above, it is clear that the developers intended for a checkpoint to drop after picking up a Health Pack, but the `f_global_health_saves` script does not actually check how the player gains the health back. `Player0` can use various methods for health regeneration such as, sitting in a dropshield, hitting loadzones that alter health, quickly dying then staying safe after a respawn, and of course using the intended health pack.*
+
+### Checkpoint Inheritance
+*wip*
+
+### Begining Area Out of Map
+*wip*
+
+### 1st AA Gun Out of Map
+*wip*
+
+### Pelican Bridge Barrier Hole
+*wip*
+
+### Pelican Launch
+*wip*
+
+### Scarab Launch
+*wip*
+
+### BXR Out of Map
+*wip*
+
+### Bob 28
+*wip*
+
+### 2nd AA Gun Out of Map
+*wip*
+
+### Flyable Falcons
+*wip*
+
+### Spire Out of Map
+*wip*
+
+### Spire Mini Spartan
+*wip*
+
+### Playable Supercarrier Cutscene
+*wip*
